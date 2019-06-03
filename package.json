@@ -1,0 +1,22 @@
+{
+  "name": "spotify-sha1uffle",
+  "version": "1.0.0",
+  "description": "SHA-1 sorting of Spotify Playlists using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxgotts/spotify-sha1uffle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxgotts/spotify-sha1uffle/issues"
+  },
+  "homepage": "https://github.com/maxgotts/spotify-sha1uffle#readme",
+  "dependencies": {
+    "spotify-web-api-node": "^4.0.0"
+  }
+}
